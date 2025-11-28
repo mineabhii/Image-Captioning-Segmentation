@@ -262,6 +262,16 @@ export FLASK_DEBUG=1  # On Windows: set FLASK_DEBUG=1
 python app.py
 ```
 
+## 📸 Screenshots
+<img width="1920" height="1080" alt="2025-10-13 (1)" src="https://github.com/user-attachments/assets/29c679c4-fb37-46ee-bcfa-d97b7d2cfc92" />
+<img width="1920" height="1080" alt="2025-10-13 (2)" src="https://github.com/user-attachments/assets/53504fa5-4fa6-4849-ac62-96676790066d" />
+<img width="1920" height="1080" alt="2025-10-13 (3)" src="https://github.com/user-attachments/assets/82fe7e94-ac9c-4294-89b1-a376cc858482" />
+<img width="1920" height="1080" alt="2025-10-13 (4)" src="https://github.com/user-attachments/assets/4a096555-33e6-4551-bc8f-fb0f013d0d27" />
+<img width="1920" height="1080" alt="2025-10-13 (5)" src="https://github.com/user-attachments/assets/67480792-360a-4c55-afeb-1c36e0d9a359" />
+<img width="1920" height="1080" alt="2025-10-13 (6)" src="https://github.com/user-attachments/assets/22882897-7e77-41b3-a84d-831d62773594" />
+<img width="1920" height="1080" alt="2025-10-13 (7)" src="https://github.com/user-attachments/assets/f860f6f0-044d-446c-95fe-7c65745e3a3e" />
+
+
 ## 📄 License
 
 This project is created for educational purposes as part of the Zidio Development Data Science internship.

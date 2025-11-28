@@ -281,6 +281,9 @@ If you encounter issues:
 2. Verify all dependencies are installed correctly
 3. Ensure you have sufficient hardware resources
 4. Try the sample model creation for quick testing
+5. If you’d like to connect or provide feedback:  
+    - **Author:** Abhishek Kumar  
+    - **GitHub:** mineabhbii(https://github.com/mineabhii)  
 
 ---
 
